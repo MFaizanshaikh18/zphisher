@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " this is only my practice on a git i will make soon the script tool for phishing"
+echo " this is only my practice on a git i will add soon the script tool for phishing"
